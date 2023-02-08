@@ -1,4 +1,4 @@
-# Number-Memorization-Game
+# Number Memorization Game
 
 To win the game, users must click the falling bubbles with the corresponding numbers in the order of the phone number they are trying to memorize.
 
